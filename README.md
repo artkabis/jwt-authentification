@@ -13,9 +13,11 @@ npm start dev
 ### Init environnement variable
 create .env file and add ->
 
+```json
 MONGO_URI = 'mongodb+srv://yourname:yourpassword@cluster0.mongodb.net/YOURDBNAME'
 API_PORT = 8000
 TOKEN_KEY = '000111222333444'
+```
 
 ### Ressources :
 [MongoDB](https://www.mongodb.com/atlas/database)
